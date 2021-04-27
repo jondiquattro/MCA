@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606960560545.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2449704418",
+    "id" : "D579CCED",
+    "lastKnownWriteTime" : 1607045225,
+    "last_content_update" : 1607045225,
+    "path" : "~/R-Labs/mca/mca.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "69,0",
+        "scrollLine" : "47"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
